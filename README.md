@@ -1,5 +1,16 @@
 # 👋 Hi, I’m Nick Liszewski
-- 👀 I’m interested in web development and data science.
-- 🌱 I’m currently learning TypeScript and Java
-- 💞️ I’m looking to collaborate on machine learning projects
-- 📫 Reach me at nliszews@ucsd.edu
+<img src="imgs\PXL_20201210_022049588_5.jpg" alt="Sasha" style="width: 450px; float: right; data-hover: hh;">
+
+Hi, Im a programmer in Orange County, CA. My interests include Web Development and Data Science. If you're interested in working together on a project, please let me know!
+
+## Skills
+- 🖥️ Python, R, JavaScript, HTML, CSS, SASS
+- 🤓 React, Django, Linux, NGINX
+- ☁️ AWS
+
+## Interests
+- 💫 VR
+- ✈️ Drones
+- 🖨️ 3D Printing
+- 📈 Economics
+- 🤔 Philosophy
